@@ -1,0 +1,8 @@
+Index: company.txt
+===================================================================
+diff --git a/company.txt b/company.txt
+--- a/company.txt	(revision cd856768f190fba1e92893181de640cc2d9e617f)
++++ b/company.txt	(date 1763840902673)
+@@ -1,0 +1,2 @@
++Gap Inc. - Amazon.in
++
