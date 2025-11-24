@@ -27,6 +27,25 @@
   }
 }</component>
   <component name="GitToolBoxStore">
+    <option name="branchesCleanupHistory">
+      <BranchesCleanupHistory>
+        <option name="history">
+          <list>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="c7af173fe3a815e606a6a452a6f36525a87cfe13" />
+                    <option name="name" value="stage" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1764010974160" />
+            </BranchCleanupEntry>
+          </list>
+        </option>
+      </BranchesCleanupHistory>
+    </option>
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -35,12 +54,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1763841000" />
+                    <option name="branchName" value="stage" />
+                    <option name="lastUsedInstant" value="1764011009" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="stage" />
-                    <option name="lastUsedInstant" value="1763840797" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1763978953" />
                   </RecentBranch>
                 </list>
               </option>
@@ -65,17 +84,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;stage&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "stage",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
